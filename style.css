@@ -1,0 +1,213 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#spotlight h3{
+    color: blue;
+    font-size: 50px;
+    margin-bottom: 30px;
+    margin-top: 60px;
+}
+
+body{
+    background-image: linear-gradient(#a78ae2,#fdd5c9);
+ 
+    
+}
+#spotlight{
+    display: flex;
+}
+.solid{
+    border-radius: 10px;
+    background-image: linear-gradient(#a78ae2,#fdd5c9);
+    margin-right: 14px;
+    padding: 8px;
+}
+.node{
+    
+    border-radius: 20px;
+    background-color: #FF9F81;
+    padding: 10px;
+
+}
+.main{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin-bottom: 20px;
+
+
+}
+.grade{
+    display: flex;
+    padding: 10px 0px;
+    gap: 20px;
+
+
+}
+.card{
+    border-radius: 12px;
+    border: 1px solid white;
+    padding: 5px 20px;
+
+}
+.container{
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+.card span{
+    border-radius: 6px;
+    background-color: white;
+    padding: 1px 5px;
+    
+
+
+    
+}
+#blue{
+    background-color:#9C89B8;
+    color: white;
+}
+.math{
+    color: #3F3D56;
+}
+.why{
+    text-align: center;
+    color: #824CEF;
+    
+}
+
+
+
+.dot{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    
+    
+}
+.alt{
+    border: 1px solid #f5f1f1;
+    border-radius: 20px;
+    padding: 10px 5px;
+    background-image: linear-gradient(#d5cfdf,#dddbda);
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.why{
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+.wise{
+    display: flex;
+    justify-content: center;
+}
+.dark{
+
+    border:1px solid #f5f1f1;
+    border-radius: 20px;
+    padding: 10px;
+    background-image: linear-gradient(#d5cfdf,#dddbda);
+    text-align: center;
+    
+}
+.photo{
+    padding: 10px;
+    color: #3F3D56;
+}
+.red img{
+    
+    width: 100%;
+}
+.red{
+    width: 100px;
+    
+    
+    background-color: white;
+    padding: 20px;
+    padding-right: 50px;
+    
+
+    
+}
+.style{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    
+    
+    
+    padding: 100px;
+    
+}
+.frame{
+    background-image: linear-gradient(#9681b8,#dcace2);
+    padding: 30px;
+    color: white;
+    
+}
+
+
+
+.black{
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+}
+.green{
+    margin-left: 1000px;
+}
+.bottom{
+    position:absolute ;
+    top: 1932px;
+    left: 783px;
+    z-index: -1;
+    
+    
+    
+}
+.fire{
+    position: absolute;
+    top: 2099px;
+    left: 328px;
+    z-index: -1;
+}
+.act{
+    position: absolute;
+    top: 1798px;
+    left:948px ;
+}
+.paper{
+    position: absolute;
+    top: 1485px;
+    left: 50px;
+}
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
